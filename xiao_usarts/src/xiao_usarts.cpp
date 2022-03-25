@@ -28,7 +28,7 @@
  *   for the I²C serial connection. The Serial3 pin assignment is
  *   TX is A4 (= ALT-SERCOM2 Pad 0) and RX is A5 (= ALT-SERCOM2 Pad 1)
  * or
- *   TX is A4 (= ALT-SERCOM2 Pad 0) and RX is A5 (= ALT-SERCOM2 Pad 1)
+ *   TX is A2 (= ALT-SERCOM2 Pad 2) and RX is A4 (= ALT-SERCOM2 Pad 3)
  * if the USE_ALT_SERIAL3 macro is defined
  *
   *
