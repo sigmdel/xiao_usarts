@@ -136,6 +136,8 @@ When the `Serial3` alternate pin assignement is to be used, "hide" the `Serial3`
 
 and define `USE_ALT_SERIAL3` in `3usarts.ino`.  It may be necessary to close and restart the IDE if there's a complaint about a twice defined `SERCOM2_Handler`; a lot of things are cached in that environment.
 
+See [Getting Started with Seeeduino XIAO](https://wiki.seeedstudio.com/Seeeduino-XIAO/#software) on the SeeedStuoio Wiki for details about using the Arduino IDE and obtaining the correct board defintions.
+
 
 ## 5. References
 
@@ -149,4 +151,4 @@ and define `USE_ALT_SERIAL3` in `3usarts.ino`.  It may be necessary to close and
 Copyright 2022, Michel Deslierres, no rights reserved.
 
 In those jurisdictions where releasing a work into the public domain may be a problem,
-the BSD Zero Clause License[SPDX:0BSD](https://spdx.org/licenses/0BSD.html) applies.
+the **BSD Zero Clause License** [SPDX:0BSD](https://spdx.org/licenses/0BSD.html) applies.
