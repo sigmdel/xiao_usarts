@@ -1,5 +1,5 @@
 /*
- * xiao_3usarts
+ * 3usarts
  *
  * Sample program showing how to set up three hardware serial interfaces
  * on the Seeeduino XIAO board based on the Sam D21G microcontroller
@@ -97,8 +97,8 @@ void setup() {
   }
 
   // Greeting as we start
-  Serial.println("\n\nxiao_3usarts");
-  Serial.println("------------");
+  Serial.println("\n\n3usarts");
+  Serial.println("-------");
 
   // Serial1
   Serial.println("Setting up Serial1");
