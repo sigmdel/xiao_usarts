@@ -67,6 +67,8 @@
  *     @ https://sigmdel.ca/michel/ha/xiao/seeeduino_xiao_sercom_en.html
  *
  * March 23, 2022, Michel Deslierres
+ * 
+ */
  
 //#define USE_ALT_SERIAL3
 
